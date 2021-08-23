@@ -60,8 +60,6 @@ function animation( time ) {
 
 }
 ```
-### Change log ###
-
 [npm]: https://img.shields.io/npm/v/three
 [npm-url]: https://www.npmjs.com/package/three
 [build-size]: https://badgen.net/bundlephobia/minzip/three
